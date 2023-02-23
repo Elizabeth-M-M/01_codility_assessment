@@ -1,4 +1,6 @@
-# No ifs no buts(Toy Problem)
+# Toy Problems
+
+## Challenge1: No ifs no buts
 ### problem 
 Write a function that accepts two numbers `a` and `b` and returns whether `a` is smaller than, bigger than, or equal to `b`, as a string.
 
@@ -22,8 +24,8 @@ Return: "-4 is greater than -7"
 3. Check for a true value in a case statement if test is `positive?`, `negative?`, else it would be equal: test.positive?(), test.negative?()
 4. Return a string corresponding to the true statement with `a` and `b` interpolated with the string:"#{a} is equal to #{b}"/"#{a} is greater than #{b}"/"#{a} is smaller than #{b}"
 
-# Challenge2: Ordered Count of Characters(Toy Problem)
-### problem
+## Challenge2: Ordered Count of Characters
+### Problem
 Count the number of occurrences of each character and return it as a (list of arrays) in order of appearance. For empty output return (an empty list).
 
 ### BDD (Behavior Driven Development)
